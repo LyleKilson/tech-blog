@@ -76,18 +76,6 @@ WHEN I am idle on the page for more than a set time
 THEN I am automatically signed out of the site
 ```
 
-## Demo Videos
-
----
-
-## Installing Dependencies
-
----
-
-## Running the Application
-
----
-
 ## Contibutions
 
 [Kyle Wilson](https://github.com/lylekilson)
