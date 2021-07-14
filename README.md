@@ -3,7 +3,6 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/lylekilson/tech-blog" />
-    <img src="https://img.shields.io/github/languages/top/lylekilson/tech-blog"  />
     <img src="https://img.shields.io/github/issues/lylekilson/tech-blog" />
     <img src="https://img.shields.io/github/last-commit/lylekilson/tech-blog" >
 </p>
