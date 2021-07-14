@@ -11,14 +11,12 @@
 <p align="center">
     <img src="https://img.shields.io/badge/javascript-yellow" />
     <img src="https://img.shields.io/badge/express.js-orange" />
-    <img src="https://img.shields.io/badge/sequelize-red"  />
     <img src="https://img.shields.io/badge/mySQL-purple"  />
     <img src="https://img.shields.io/badge/bulma-brown"  />
     <img src="https://img.shields.io/badge/dotenv-green" />
     <img src="https://img.shields.io/badge/handlebars-yellow" />
     <img src="https://img.shields.io/badge/bcrypt-orange" />
     <img src="https://img.shields.io/badge/Sequelize-red"  />
-    <img src="https://img.shields.io/badge/mySQL-purple"  />
     <img src="https://img.shields.io/badge/dotenv-green" />
 </p>
 
